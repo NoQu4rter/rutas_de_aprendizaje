@@ -24,5 +24,18 @@ Esto es un párrafo común y corriente.
 
 ```
 Esto sería un bloque de código.
+ASDFGH
 
 ```
+
+<code>
+ASDFGH
+    </code>
+    
+~~~
+ASDFGH
+~~~
+
+    ASDFGH
+    ASDFGH
+ASDFGH
